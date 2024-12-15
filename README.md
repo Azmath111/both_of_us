@@ -1,2 +1,2 @@
 # both_of_us
-This is my personal project
+This is my personal project made for my motu.
