@@ -73,7 +73,7 @@ h1 {
 .time-section span {
     font-size: 2em;
     font-weight: bold;
-    animation: pulse 1s infinite alternate;
+    animation: pulse 0.5s infinite alternate;
 }
 
 .time-section p {
