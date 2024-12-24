@@ -73,6 +73,10 @@ h1 {
 .time-section span {
     font-size: 2em;
     font-weight: bold;
+}
+.time-second span{
+    font-size: 2em;
+    font-weight: bold;
     animation: pulse 0.25s infinite alternate;
 }
 
