@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const countdownDate = new Date('September 9, 2025 00:00:00').getTime();
+    const countdownDate = new Date('June 10, 2025 00:00:00').getTime();
     const updateCountdown = () => {
         const now = new Date().getTime();
         const distance = countdownDate - now;
